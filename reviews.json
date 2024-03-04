@@ -1,0 +1,92 @@
+[
+    {
+      "name": "John Smith",
+      "place": "New York",
+      "country": "USA",
+      "review_title": "Excellent Service!",
+      "review_subject": "I recently purchased a property through Estatein and I couldn't be happier with the service. They were professional, knowledgeable, and helped me find the perfect home for my family.",
+      "rating": 5,
+      "image":"https://media.istockphoto.com/id/1370020940/photo/portrait-of-successful-businessman.jpg?s=612x612&w=0&k=20&c=gIAEwwCE05yArY8ESyFubwLNKnzew5IWrYQET_GBVAQ="
+    },
+    {
+      "name": "Emily Johnson",
+      "place": "London",
+      "country": "UK",
+      "review_title": "Highly Recommend!",
+      "review_subject": "Estatein made the process of selling my house incredibly easy. They were proactive, communicative, and got me a great price for my property. I would highly recommend them to anyone looking to buy or sell real estate.",
+      "rating": 5,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnLI3d7k_ZuSh_gWA-eHaqA10PmQyUwYNPGg&usqp=CAU"
+    },
+    {
+      "name": "Carlos Martinez",
+      "place": "Madrid",
+      "country": "Spain",
+      "review_title": "Impressive Service",
+      "review_subject": "I had a fantastic experience working with Estatein. They listened to my needs and preferences and showed me properties that matched perfectly. Their agents are professional and courteous, making the whole process smooth and stress-free.",
+      "rating": 4,
+      "image":"https://media.istockphoto.com/id/1025855448/photo/stylish-bearded-man-with-trendy-haircut-smiling-to-camera-having-pleased-expression-and.jpg?s=612x612&w=0&k=20&c=Yy3-p2p6SY8y1XJZMT5B3_qgQgxZdwHF3_8Ysoas_9M="
+    },
+    {
+      "name": "Sophie Dupont",
+      "place": "Paris",
+      "country": "France",
+      "review_title": "Great Communication!",
+      "review_subject": "Estatein's team was always available to answer my questions and address any concerns I had throughout the buying process. Their communication skills are top-notch, and I felt supported every step of the way.",
+      "rating": 4,
+      "image":"https://www.shutterstock.com/image-photo/outdoor-portrait-laughing-ginger-woman-600nw-1214848426.jpg"
+    },
+    {
+      "name": "Hiroshi Tanaka",
+      "place": "Tokyo",
+      "country": "Japan",
+      "review_title": "Excellent Experience",
+      "review_subject": "I had the pleasure of working with Estatein to find a rental property in Tokyo. They were attentive to my requirements and found me the perfect apartment in a great location. I highly recommend their services to anyone looking for real estate in Japan.",
+      "rating": 5,
+      "image":"https://media.istockphoto.com/id/519049368/photo/portrait-of-senior-men.jpg?s=612x612&w=0&k=20&c=ECOek2_ooQT7edBfXUcp3HMe7kZo_g0uXTf2V4rEOB0="
+    },
+    {
+      "name": "Maria Garcia",
+      "place": "Barcelona",
+      "country": "Spain",
+      "review_title": "Outstanding Service",
+      "review_subject": "Estatein exceeded my expectations in every way. Their agents are knowledgeable, professional, and truly care about their clients. I will definitely be using them again for any future real estate transactions.",
+      "rating": 5,
+      "image":"https://thumbs.dreamstime.com/b/mature-spanish-businesswoman-smiling-camera-office-ceo-88467969.jpg"
+    },
+    {
+      "name": "Chen Wei",
+      "place": "Beijing",
+      "country": "China",
+      "review_title": "Smooth Process",
+      "review_subject": "I recently sold a property through Estatein, and I was impressed by how smoothly the entire process went. Their team handled everything efficiently, and I was able to get a great price for my property. Thank you, Estatein!",
+      "rating": 4,
+      "image":"https://media.istockphoto.com/id/1288538088/photo/portrait-young-confident-smart-asian-businessman-look-at-camera-and-smile.jpg?s=612x612&w=0&k=20&c=qkOwVHZFC-fbtbTnufVGaXFhnQBcfEjzbu5ThSXVLR0="
+    },
+    {
+      "name": "Luisa Rossi",
+      "place": "Rome",
+      "country": "Italy",
+      "review_title": "Great Attention to Detail",
+      "review_subject": "Estatein's attention to detail sets them apart from other real estate companies. They took the time to understand exactly what I was looking for and found me a property that exceeded my expectations. I couldn't be happier with the outcome.",
+      "rating": 5,
+      "image":"https://image1.masterfile.com/getImage/NzAwLTAwMjg2NjM5ZW4uMDAwMDAwMDA=ALpAAb/700-00286639en_Masterfile.jpg"
+    },
+    {
+      "name": "Muhammad Khan",
+      "place": "Dubai",
+      "country": "UAE",
+      "review_title": "Top-Notch Service",
+      "review_subject": "Estatein provided me with top-notch service when I was looking for a commercial property in Dubai. Their agents are knowledgeable about the market and helped me find the perfect space for my business. I highly recommend them to anyone in need of real estate services in the UAE.",
+      "rating": 5,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY74N-UMuvtWkfQBa88mggx4Krlk6cq3s7w&usqp=CAU"
+    },
+    {
+      "name": "Anna Petrova",
+      "place": "Moscow",
+      "country": "Russia",
+      "review_title": "Excellent Experience",
+      "review_subject": "I had an excellent experience working with Estatein to find a rental property in Moscow. Their agents were professional, friendly, and knowledgeable about the local market. I would definitely use their services again in the future.",
+      "rating": 4,
+      "image":"https://media.istockphoto.com/id/1347511682/photo/middle-aged-woman-portrait-wearing-white-shirt-against-gray-solid-background.jpg?s=612x612&w=0&k=20&c=XdAeoXJA_IKOz__s2LW-FyOhm06-Ft2rezGGZq7cVGg="
+    }
+  ]
